@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hasabnis/Project01.git/static/css/main.073c9b0a.css",
+    "main.js": "/Hasabnis/Project01.git/static/js/main.49d61c43.js",
+    "index.html": "/Hasabnis/Project01.git/index.html",
+    "main.073c9b0a.css.map": "/Hasabnis/Project01.git/static/css/main.073c9b0a.css.map",
+    "main.49d61c43.js.map": "/Hasabnis/Project01.git/static/js/main.49d61c43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.49d61c43.js"
+  ]
+}
