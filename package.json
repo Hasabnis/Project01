@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/Hasabnis/Project01.git",
+  "homepage": "https://Hasabnis.github.io/Project01",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",  
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
